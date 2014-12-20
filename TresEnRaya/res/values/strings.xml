@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TresEnRaya</string>
+    <string name="action_settings">OPCIONES</string>
+    <string name="jugador2_gana">Jugador 2 (Movil) gana!</string>
+    <string name="jugador1_gana">Jugador 1 gana!</string>
+    <string name="empate">EMPATE</string>
+    <string name="jugador2_turno">Turno Movil</string>
+    <string name="jugador1_turno">Turno Jugador 1</string>
+    <string name="comienza_movil">EMPIEZA (Ordenador comienza)</string>
+    <string name="comienza_jugador">EMPIEZA (Jugador comienza)</string>
+    <string name="dos_jugadores">Modo 2 Jugadores</string>
+    <string name="bienvenido"><b>Bienvenido al Tres en Raya!!</b></string>
+    <string name="explicacion1">Desarrollado por Jose Viera Ledo</string>
+    <string name="explicacion2">Proyecto Android 4 DAM</string>
+    <string name="info">Info</string>
+    <string name="empate_contador">empate_contador</string>
+
+</resources>

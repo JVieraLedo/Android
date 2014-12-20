@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal|center_vertical|fill_horizontal|left|right"
+    android:orientation="horizontal" >
+
+    <com.josevieraledo.tresenraya.VistaJuego
+        android:id="@+id/vista_juego"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="20dip" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center_horizontal|fill_horizontal|right"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/informacion_turno"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:gravity="center_horizontal" />
+
+            <Button
+                android:id="@+id/siguiente_turno"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dip"
+                android:layout_marginRight="20dip"
+                android:minEms="10"
+                android:text="LISTO" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

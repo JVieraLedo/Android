@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.uso_sms.sms.SMSRecibido&apos; to &apos;SMSReceiver&apos;&#x0A;- Original project: &apos;SMS&apos;&#x0A;- Original element: &apos;com.uso_sms.sms.SMSRecibido&apos;&#x0A;- Renamed element: &apos;com.uso_sms.sms.SMSReceiver&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SMSRecibido&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.uso_sms.sms{SMSRecibido.java[SMSRecibido" matchStrategy="1" name="SMSReceiver" qualified="false" references="true" similarDeclarations="false" stamp="1417769734473" textual="false" version="1.0"/>
+</session>

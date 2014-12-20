@@ -1,0 +1,5 @@
+package com.uso_sms.sms;
+
+public class SMSRecibido {
+
+}
